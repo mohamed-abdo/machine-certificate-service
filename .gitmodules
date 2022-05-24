@@ -1,0 +1,7 @@
+[submodule "machine-certificate"]
+	path = machine-certificate
+	url = https://github.com/mohamed-abdo/machine-certificate.git
+
+[submodule "machine-service"]
+	path = machine-service
+	url = https://github.com/mohamed-abdo/machine-service.git
