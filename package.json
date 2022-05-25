@@ -4,7 +4,7 @@
   "description": "machine service / certificate",
   "main": "index.js",
   "scripts": {
-    "build":"cd machine-service && npm run build && cd .. && cd machine-certificate && npm run build",
+    "build": "cd machine-service && npm run build && cd .. && cd machine-certificate && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mohamed abdo",
